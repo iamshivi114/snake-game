@@ -1,8 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Akaya+Telivigala&display=swap');
+body, h1, html {
+    margin: 0;
+}
 header {
-    color: black;
-    background-color: aqua;
+    color: blackgit ;
+    background-color:blanchedalmond;
+    padding: 20px;
 }
 h1 {
-    background-color: blue;
-    color: green;
+    color: black;
+    font-family: 'Akaya Telivigala', cursive;
+    font-size: 70px;
+    text-align: center;
+}
+P {
+    font-size: 20px;
+    text-align: center;
 }
